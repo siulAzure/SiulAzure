@@ -2,7 +2,7 @@
 
 I'm a Full stack programmer with a side of ML expertise. Born and raised Puerto Rican but am now a cowboy with swim shorts in good o'l Texas.
 
-Currently working on expanding my portfolio and expanding my skills.
+I am currently working on sharing my projects in this medium.
 
 To be continued...
 <!--
